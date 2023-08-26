@@ -47,3 +47,7 @@ Leap year.
 ## Example Output 2
 
 Not leap year.
+
+## Resources
+
+-  [List of leap years] (https://sciencestruck.com/list-of-leap-years)
